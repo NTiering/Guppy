@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specimen.Services", "Specimen.Services\Specimen.Services.csproj", "{C66FA26B-AA69-458C-8560-DB5C60A54F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specimen", "Specimen\Specimen.csproj", "{DCF21B31-EE19-4BB4-B7F5-6F552D054B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specimen.Contracts", "Specimen.Models\Specimen.Contracts.csproj", "{0DB05893-DD9C-422A-AD96-1314FDE4635D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specimen.Dal", "Specimen.Dal\Specimen.Dal.csproj", "{0B18B83B-6CE1-4288-9CAB-DCB69F929B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guppy.Contracts", "Guppy.Contracts\Guppy.Contracts.csproj", "{99E752B3-700E-491D-B8F7-5A9A77A40E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guppy.Dal", "Guppy.Dal\Guppy.Dal.csproj", "{8208CB93-E4FD-47AD-BDF5-B587012B754A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guppy.Services", "Guppy.Services\Guppy.Services.csproj", "{5F0664C2-808B-49D8-98A9-3C9A361A3726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66FA26B-AA69-458C-8560-DB5C60A54F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66FA26B-AA69-458C-8560-DB5C60A54F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66FA26B-AA69-458C-8560-DB5C60A54F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66FA26B-AA69-458C-8560-DB5C60A54F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF21B31-EE19-4BB4-B7F5-6F552D054B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF21B31-EE19-4BB4-B7F5-6F552D054B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF21B31-EE19-4BB4-B7F5-6F552D054B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF21B31-EE19-4BB4-B7F5-6F552D054B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB05893-DD9C-422A-AD96-1314FDE4635D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB05893-DD9C-422A-AD96-1314FDE4635D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB05893-DD9C-422A-AD96-1314FDE4635D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB05893-DD9C-422A-AD96-1314FDE4635D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B18B83B-6CE1-4288-9CAB-DCB69F929B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B18B83B-6CE1-4288-9CAB-DCB69F929B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B18B83B-6CE1-4288-9CAB-DCB69F929B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B18B83B-6CE1-4288-9CAB-DCB69F929B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E752B3-700E-491D-B8F7-5A9A77A40E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E752B3-700E-491D-B8F7-5A9A77A40E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E752B3-700E-491D-B8F7-5A9A77A40E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E752B3-700E-491D-B8F7-5A9A77A40E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8208CB93-E4FD-47AD-BDF5-B587012B754A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8208CB93-E4FD-47AD-BDF5-B587012B754A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8208CB93-E4FD-47AD-BDF5-B587012B754A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8208CB93-E4FD-47AD-BDF5-B587012B754A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0664C2-808B-49D8-98A9-3C9A361A3726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0664C2-808B-49D8-98A9-3C9A361A3726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0664C2-808B-49D8-98A9-3C9A361A3726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0664C2-808B-49D8-98A9-3C9A361A3726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

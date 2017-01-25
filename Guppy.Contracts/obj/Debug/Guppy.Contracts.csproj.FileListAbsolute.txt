@@ -1,0 +1,9 @@
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Quickstart.Contracts\bin\Debug\Guppy.Contracts.dll.config
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Quickstart.Contracts\bin\Debug\Guppy.Contracts.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Quickstart.Contracts\bin\Debug\Guppy.Contracts.pdb
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Quickstart.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Quickstart.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Quickstart.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Quickstart.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Quickstart.Contracts\obj\Debug\Guppy.Contracts.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Quickstart.Contracts\obj\Debug\Guppy.Contracts.pdb

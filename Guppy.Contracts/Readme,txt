@@ -1,0 +1,17 @@
+------------------------------------------------------
+------------------------------------------------------
+Contracts Readme
+------------------------------------------------------
+
+The design goals of the contracts project are as 
+1)	Allow projects to define WHAT they do for consumers 
+2)	Allow projects to hide HOW they do what they do for consumers 
+
+------------------------------------------------------
+
+This provides a central location where interfaces can be defined, allowing projects to share functionality without sharing the means by which this is achieved.
+
+Both IDal<T> and IService<T> may need further extension. These cases are covered in greater details in the projects themselves, however when extending these interfaces please consider.
+
+1)	It is likely that existing work already uses the un-extended version (IDal<T> or IService<T>) so consider making a new interface that extends the existing ones.
+2)	Expected behaviour is that methods called the same , act in the same way. E.G IService<Widget>.Get(32) would return the equivalent  of IWidgetService.Get(32)
