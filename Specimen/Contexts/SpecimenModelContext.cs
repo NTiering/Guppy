@@ -1,12 +1,13 @@
-﻿using Specimen.Dal;
+﻿
 
 
 namespace Specimen.Contexts
 {
+    using Specimen.Contracts;
+
     /// <summary>
     /// Example model context 
     /// </summary>
-    /// <seealso cref="Specimen.Dal.ISpecimenModelContext" />
     class SpecimenModelContext : ISpecimenModelContext
     {
         public int UserId { get; set; }

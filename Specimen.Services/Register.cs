@@ -4,7 +4,6 @@
     using Contracts.Services;
     using FluentValidation;
     using Guppy.Contracts;
-    using Guppy.Contracts.Models;
     using Validators;
 
     public static class Register

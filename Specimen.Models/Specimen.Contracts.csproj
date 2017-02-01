@@ -44,6 +44,7 @@
     <Compile Include="DataModels\CustomerDataModel.cs" />
     <Compile Include="DataModels\OrderDataModel.cs" />
     <Compile Include="DataModels\ProductDataModel.cs" />
+    <Compile Include="ISpecimenModelContext.cs" />
     <Compile Include="ModelError.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\ILoggedOrderService.cs" />

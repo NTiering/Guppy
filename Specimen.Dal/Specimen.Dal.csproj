@@ -41,7 +41,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CustomerDal.cs" />
-    <Compile Include="ISpecimenModelContext.cs" />
     <Compile Include="OrderDal.cs" />
     <Compile Include="ProductDal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

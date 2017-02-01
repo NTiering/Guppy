@@ -1,0 +1,8 @@
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Guppy.TestHarness.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Guppy.TestHarness.pdb
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Guppy.Contracts.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Ninject.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Guppy.Contracts.pdb
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Ninject.xml
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\obj\Debug\Guppy.TestHarness.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\obj\Debug\Guppy.TestHarness.pdb

@@ -8,6 +8,7 @@ namespace Specimen.Services
     using System.Collections.Generic;
     using Dal;
     using System.Security;
+    using Contracts;
 
     class LoggedOrderService : BaseServiceInterceptor<OrderDataModel>, ILoggedOrderService
     {

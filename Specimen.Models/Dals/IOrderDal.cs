@@ -1,7 +1,7 @@
 ﻿namespace Specimen.Contracts.Dals
 {
     using Guppy.Contracts;
-    using DataModels;
+    using Specimen.Contracts.DataModels;
     using System;
     using System.Collections.Generic;
 

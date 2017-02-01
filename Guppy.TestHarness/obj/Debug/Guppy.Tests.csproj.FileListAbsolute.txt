@@ -1,0 +1,9 @@
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Guppy.Tests.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Guppy.Tests.pdb
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Guppy.Contracts.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Ninject.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Guppy.Contracts.pdb
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\bin\Debug\Ninject.xml
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\obj\Debug\Guppy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\obj\Debug\Guppy.Tests.dll
+C:\Users\sismith\Downloads\Quickstart-master\CSharp\Api\Guppy.Tests\obj\Debug\Guppy.Tests.pdb
